@@ -10,4 +10,4 @@ username = "<username>"
 password = "<password>"
 
 
-
+Put a cron or as a startup script on you machine to log in
