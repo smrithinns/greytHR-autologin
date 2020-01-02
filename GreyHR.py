@@ -14,12 +14,12 @@ print ("Headless Firefox Initialized")
 #browser = webdriver.Chrome()
 
 
-browser.get('https://cloudscale.greythr.com') 
+browser.get('https://domain.greythr.com') 
 time.sleep(3) 
 
 # Enter your user name and password here. 
-username = "C2S-115"
-password = "Rembuh26mul@"
+username = "<username>"
+password = "<password>"
 
 # username send 
 a = browser.find_element_by_xpath("//input[@id='username']")
